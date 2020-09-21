@@ -15,6 +15,9 @@
 
 Además haremos uso de Git para la creación y gestión de repositorios
 
+### Diseño 
+La descripción del diseño se encuentra en el archivo AREPDesign.pdf
+
 ### Uso del proyecto
 Primero debemos clonar nuestro repositorio de la siguiente dirección
 https://github.com/DanielAlfonso17/AREP-LAB5.git desde la terminal de comandos
